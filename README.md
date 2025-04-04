@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04C3CB&size=35&font=Fira+Code&weight=400&center=true&vCenter=true&width=1000&lines=WELCOME!;GUSTA'S+CODE)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Gustavo Miranda</h1>
 <h3 align="center">A passionate full stack developer from Brazil</h3>
 
@@ -15,7 +17,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustamba&show_icons=true&locale=en&layout=compact" alt="gustamba" /></p>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04C3CB&size=35&font=Fira+Code&weight=400&center=true&vCenter=true&width=1000&lines=WELCOME!;GUSTA'S+CODE)](https://git.io/typing-svg)
+
 
 <!-- Sobre mim -->
 # Hey there, I'm Gustavo Miranda! 👋
