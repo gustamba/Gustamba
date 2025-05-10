@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gustavo Miranda</h1>
-<h3 align="center">A passionate full stack developer from Brazil</h3>
+<h3 align="center">A full stack developer from Brazil</h3>
 
 - 📫 How to reach me **gustavodefaustino@gmail.com**
 
