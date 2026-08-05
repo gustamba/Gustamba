@@ -1,16 +1,32 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi 👋 I'm Gustavo
 
-###
+Infrastructure Analyst transitioning to Backend Development.
 
-<p align="left">My name is Gustavo and I'm a java developer, from Brazil - São Paulo</p>
+Currently building projects with:
 
-###
+- Java 21 and Java 8
+- Spring Boot
+- PostgreSQL
+- Docker
+- REST APIs
+- Maven
 
-<h2 align="left">About me</h2>
+## Current Goals
 
-###
+- Become a Java Backend Developer
+- Build production-level APIs
+- Learn Spring Security
+- Learn Unit Tests
 
-<p align="left">📚 I'm currently learning Java OO<br>🎯 Goals: Improve my java skills</p>
+## Technologies
+
+(Java badges)
+
+## Featured Projects
+
+CRUD Spring Boot
+API Finance
+Inventory System
 
 ###
 
