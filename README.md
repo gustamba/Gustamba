@@ -24,8 +24,8 @@ Currently building projects with:
 
 ## Featured Projects
 
-CRUD Spring Boot
-API Finance
+CRUD Spring Boot<br>
+API Finance<br>
 Inventory System
 
 ###
